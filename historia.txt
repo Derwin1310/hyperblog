@@ -3,3 +3,5 @@ Esta es la historia de derwin.
 Nacio en Venezuela, tiene 24 anios.
 
 Esta estudiando para ser programador, manana nos enfocaremos en sus estudios.
+
+El colaborador de github tiene 26 y se acaba de unir como nuevo miembro (realmente no) al proyecto de hyperblog
