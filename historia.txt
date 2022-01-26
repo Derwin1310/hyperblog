@@ -7,6 +7,7 @@ Esta estudiando para ser programador, manana nos enfocaremos en sus estudios.
 El colaborador de github tiene 26 y se acaba de unir como nuevo miembro (realmente no) al proyecto de hyperblog.
 
 experimento de rebase 1
+experimento de rebase 2
 
 probando el Rebase
 probando el Rebase 2
